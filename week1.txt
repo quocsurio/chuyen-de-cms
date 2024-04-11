@@ -1,2 +1,6 @@
 Đây là file week1.txt
+<<<<<<< HEAD
 Thuộc Branch: week1 
+=======
+Thuộc Branch: week1 va main
+>>>>>>> main
