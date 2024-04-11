@@ -1,2 +1,2 @@
 Đây là file week1.txt
-Thuộc Branch: week1 và main
+Thuộc Branch: week1 
